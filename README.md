@@ -1,12 +1,11 @@
-# hugging-face-space-1
-
 ---
-title: Test
+title: hugging-face-space-1
 emoji: ⚡
 colorFrom: pink
 colorTo: blue
-sdk: static
+sdk: gradio
+sdk_version: 3.0.6
+app_file: app.py
 pinned: false
+license: cc
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
